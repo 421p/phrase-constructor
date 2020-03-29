@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapping>
+  <group>
+    <item>Увага!</item>
+    <item>Терміново!</item>
+    <item>Всім привіт,</item>
+    <item>Друзі,</item>
+  </group>
+  <group>
+    <item>мені</item>
+    <item>моєму сусіду</item>
+    <item>моєму другу</item>
+    <item>моєму товаришу</item>
+    <item>моєму брату</item>
+    <item>моїй сестрі</item>
+    <item>моєму колезі</item>
+  </group>
+  <group>
+    <item>тільки що</item>
+    <item>сьогодні зранку</item>
+    <item>пів години назад</item>
+    <item>буквально недавно</item>
+  </group>
+  <group>
+    <item>подзвонив</item>
+    <item>зателефонував</item>
+    <item>написав</item>
+    <item>розказав</item>
+  </group>
+  <group>
+    <item>знайомий з МОЗ</item>
+    <item>знайомий з міністерства</item>
+    <item>знайомий з кабміну</item>
+    <item>брат</item>
+    <item>дядько</item>
+    <item>родич "звідти"</item>
+  </group>
+  <group>
+    <item>і попросив</item>
+  </group>
+  <group>
+    <item>нікому не казати!</item>
+    <item>нікому не розказувати!</item>
+    <item>розказати всім!</item>
+    <item>всім передати!</item>
+  </group>
+  <group>
+    <item>Насправді все</item>
+    <item>Реально все</item>
+    <item>У дійсності все</item>
+  </group>
+  <group>
+    <item>не так як нам кажуть</item>
+    <item>не так однозначно</item>
+    <item>зовсім не так</item>
+    <item>вже йде на покращення</item>
+    <item>вже набагато краще ніж було</item>
+  </group>
+  <group>
+    <item>і скоро</item>
+    <item>і вже дуже скоро</item>
+    <item>і вже буквально на днях</item>
+  </group>
+  <group>
+    <item>будуть прийняті жорсткі міри, але все буде добре!</item>
+    <item>має початись позитивна динаміка</item>
+    <item>вийдемо на роботу, якщо виживемо</item>
+  </group>
+</mapping>
